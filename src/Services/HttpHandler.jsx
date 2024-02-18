@@ -1,3 +1,3 @@
 const dawd = () => {
-    console.log("oi");
-}
+  console.log("oi");
+};
